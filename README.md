@@ -2,8 +2,7 @@
  
 ## Sample program for network 3D camera Image Grabber using Openframrwork and ofIpVideoGrabber addon.  
 
-![img0](https://github.com/Taisuke-S/Network3DCameraConsole/image.jpg)
-
+![image](https://github.com/Taisuke-S/Network3DCameraConsole/blob/main/image.jpg)
 
 Instructions
 ============
